@@ -1,0 +1,12 @@
+# Site settings
+title: Koo Lab
+email: koo@cshl.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Koo Lab website. Advancing deep learning for genomics.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://koolab.cshl.edu" # the base hostname & protocol for your site
+github_username:  p-koo
+favicon: "/images/logo.png"
+
+# Build settings
+markdown: kramdown
